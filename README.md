@@ -18,5 +18,5 @@ If you want to create notes having more than 140 characters, just put **#con** (
 
 1. Clone this Repository. 
 2. Make sure you've installed [Appscript](https://pypi.python.org/pypi/appscript/) and [Python-twitter](https://github.com/bear/python-twitter) libraries.
-3. Get your API credentials from twitter.
+3. Get your API credentials from twitter and add them in the script. 
 4. Run the script
