@@ -7,9 +7,9 @@ Notes can be as long as you want!
 
 # Creating Notes
 
-In order to create a note, just tweet using the hashtag **#TwtNotes** (case insensitive).
-For example, 
-> #twtnotes This is a sample note! 
+In order to create a note, just tweet using the hashtag **#TwtNotes** (case insensitive).  
+For example,   
+  #twtnotes This is a sample note! 
 
 If you want to create notes having more than 140 characters, just put **#con** (case insensitive) at the end of each tweet. Do not use any hashtags on the tweet that marks the end of the note. 
 
